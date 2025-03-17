@@ -52,7 +52,7 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>0.0.8</version>
                 <configuration>
-                    <mainClass>no.ntnu.liaml.cardgame.HelloApplication</mainClass>
+                    <mainClass>no.ntnu.liaml.cardgame.CardGameApplication</mainClass>
                 </configuration>
             </plugin>
 
